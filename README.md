@@ -3,9 +3,10 @@ PROG270-Garcia2013-10
 
 How to make Chico's Tacos at home
 =================================
+
 *Alley Nomi*
-![Chico's Tacos]
-(https://upload.wikimedia.org/wikipedia/commons/2/24/Chico%27s_Tacos.jpg)
+
+<image src="Chico's_Tacos.jpg" />
 
 An El Paso, Texas favorite
 --------------------------
