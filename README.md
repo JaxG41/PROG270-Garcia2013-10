@@ -4,14 +4,15 @@ PROG270-Garcia2013-10
 How to make Chico's Tacos at home
 =================================
 *Alley Nomi*
-http://upload.wikimedia.org/wikipedia/commons/2/24/Chico%27s_Tacos.jpg
+
+![Chico's Tacos]
+(https://upload.wikimedia.org/wikipedia/commons/2/24/Chico%27s_Tacos.jpg)
 
 An El Paso, Texas favorite
 --------------------------
 
 ~~~~
 Frozen beef taquitos (fry until crisp in oil 2-3 minutes)
-Large bag finely shredded cheese (mexican mix is good)
 One large can whole tomatoes
 4-5 jalapenos (cut off stems, I leave seeds)
 2 cubes tomato base boullion and 2 cubes chicken boullion
